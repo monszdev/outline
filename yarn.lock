@@ -9840,6 +9840,14 @@ passport-google-oauth2@^0.2.0:
   dependencies:
     passport-oauth2 "^1.1.2"
 
+passport-keycloak-oauth2-oidc@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/passport-keycloak-oauth2-oidc/-/passport-keycloak-oauth2-oidc-1.0.5.tgz#a772eed2e4ec3565e39a40f042b362c65a0d85aa"
+  integrity sha512-uvZGTFu7MozqOIocDdSlEImEQTaPd8g5Lwbt83SbFqOVvCS3PelKjMQOYoJ7ERL7ELOY6puV0BY+Pw8ExM4EYw==
+  dependencies:
+    lodash "^4.17.20"
+    passport-oauth2 "^1.5.0"
+
 passport-oauth2@^1.1.2, passport-oauth2@^1.5.0:
   version "1.5.0"
   resolved "https://registry.yarnpkg.com/passport-oauth2/-/passport-oauth2-1.5.0.tgz#64babbb54ac46a4dcab35e7f266ed5294e3c4108"
